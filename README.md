@@ -42,7 +42,7 @@ Secondary KPI: (For Internal Tracking)
 
 - Think about how to present the metrics - relevant charts. For example, cumulative presentation of the primary KPIs above makes more sense as <..... reason ...> 
 - Thinking about layouts and the number of charts and dashboards makes sense. For example, we 'benchmarking analysis' and Zoox's performance metric for disengagement reasons. Analyses are kept in two different dashboard views. 
-- **Tableau Report** is available here : [zoox-cse-study.twbx](./zoox-case-study.twbx)
+- **Tableau Report** is available here : [zoox-case-study.twbx](./zoox-case-study.twbx)
 
 ### 4. Generate Insights
 <...write some text here ...>
