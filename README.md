@@ -50,19 +50,29 @@ Secondary KPI: (For Internal Tracking)
    
    ![crosstab](crosstab.png)
 
-3. Overall, zoox ranked **5th** w.r.t **'miles per vin'** in its competition. However, it did better w.r.t **'miles per disengagement'**, ranked **3rd**:
+2. Overall, zoox ranked **5th** w.r.t **'miles per vin'** in its competition. However, it did better w.r.t **'miles per disengagement'**, ranked **3rd**:
 
    ![ranking](ranking.png)
    
-5. However, Zoox has done well in 2022 w.r.t both the KPI and improved. As for 2021, Zoox ranked **7th** (**'miles per vin'**) and **5th** (**'miles per disengagement'**) respectively against competition
+3. However, Zoox has done well in 2022 w.r.t both the KPI and improved. As for 2021, Zoox ranked **7th** (**'miles per vin'**) and **5th** (**'miles per disengagement'**) respectively against competition
 
    ![rankingandcrrosstab](rankingandcrrosstab.png)
    
-7. This is also evident from the cumulative trend charts below, which we see specifically from Jun'22, Zoox's performance in both the KPIs has got **significant upwards traction** compared to most of the competitors.
+4. This is also evident from the cumulative trend charts below, which we see specifically from Jun'22, Zoox's performance in both the KPIs has got **significant upwards traction** compared to most of the competitors.
 
    ![kpitrends](kpitrends.png)
    
-8. <... more insight s...>
+5. There is a sharp drop in **miles per vin** kpi from Nov 21 to Dec 21. The primary reason being 57 new vin were added, which resulted in the initial fewer miles collections across vin, which eventually started gaining traction
+
+   ![vincnt-old](vincnt-old.png)    ![vincnt-new](vincnt-new.png)
+   
+6. Main KPI view for Zoox:
+
+   ![kpiview](kpiview.png) 
+
+7. KPI view for a competitor:
+
+   ![kpiview2](kpiview2.png) 
    
 
 
