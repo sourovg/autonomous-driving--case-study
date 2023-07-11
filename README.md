@@ -1,7 +1,7 @@
 # Autonomous Driving Case-Study
 
 ## Objective
-Understand and measure the performance of the Zoox test drive and how they are doing against competitors. For any autonomous test drive, the more miles you test without any notable disruptions confirms the probability of success in the real world. Having said that and given the data we have, at a first glance, it appears that the top level metrics should be:
+To understand and measure the performance of the Zoox test drive and how they are doing against competitors. For any autonomous test drive, the more miles you test without any notable disruptions confirms the probability of success in the real world. Having said that and given the data we have, at a first glance, it appears that the top level metrics should be:
 - **Miles driven during the test drive** (more is better)
 - **Number of disengagements during the test drive** (less is better)
 
@@ -48,29 +48,30 @@ Secondary KPI: (For Internal Tracking)
 <...write some text here ...>
 1. Overall, Zoox produces more **'miles per diseggagement'** compared to the mean of competitors' but, its falls short in driving **'miles per vin'** compared to its key competitors except for 'Cruise, LLC', which is almost at the same level as Zoox:
    
-   ![crosstab](crosstab.png)
+      <img src=crosstab.png width="600" height="500">
 
 2. Overall, zoox ranked **5th** w.r.t **'miles per vin'** in its competition. However, it did better w.r.t **'miles per disengagement'**, ranked **3rd**:
 
-   ![ranking](ranking.png)
+      <img src=ranking.png width="500" height="500">
    
 3. However, Zoox has done well in 2022 w.r.t both the KPI and improved. As for 2021, Zoox ranked **7th** (**'miles per vin'**) and **5th** (**'miles per disengagement'**) respectively against competition
 
-   ![rankingandcrrosstab](rankingandcrrosstab.png)
+      <img src=rankingandcrrosstab.png width="800" height="500">
    
 4. This is also evident from the cumulative trend charts below, which we see specifically from Jun'22, Zoox's performance in both the KPIs has got **significant upwards traction** compared to most of the competitors.
 
-   ![kpitrends](kpitrends.png)
+      ![kpitrends](kpitrends.png)
    
 5. There is a sharp drop in **miles per vin** kpi from Nov 21 to Dec 21. The primary reason being 57 new vin were added, which resulted in the initial fewer miles collections across vin, which eventually started gaining traction
 
-   ![vincnt-old](vincnt-old.png)    ![vincnt-new](vincnt-new.png)
+      <img src=vincnt-old.png width="400" height="500">    <img src=vincnt-new.png width="400" height="500">
+
    
-6. Main KPI view for Zoox:
+7. Main KPI view for Zoox:
 
    ![kpiview](kpiview.png) 
 
-7. KPI view for a competitor:
+8. KPI view for a competitor:
 
    ![kpiview2](kpiview2.png) 
    
