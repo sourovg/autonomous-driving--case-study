@@ -75,7 +75,7 @@ For any autonomous vehicle test-drive, the more miles you test without any notab
    
 5. There is a sharp drop in **miles per vin** kpi from Nov 21 to Dec 21. The primary reason being 57 new vin were added, which resulted in the initial fewer miles collections across vin, which eventually started gaining traction
 
-      <img src=./images/vincnt-old.png width="400" height="500">    <img src=./images/vincnt-new.png width="400" height="500">
+      <img src=./images/vincnt-old.png width="350" height="400">    <img src=./images/vincnt-new.png width="350" height="400">
 
    
 7. **The Main KPI view for Zoox:**
