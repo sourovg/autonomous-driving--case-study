@@ -97,4 +97,6 @@ For any autonomous vehicle test-drive, the more miles you test without any notab
     - Weather conditions - windy, foggy, rainy, sunny etc.
     - Time of the day - day, night etc.
     - Traffic condition during the time of testing
+    - Reaction time in case of disengagement - overall and also by event type (weather,  construction zones, road users) or road type (freeway, city street etc.) causing the system failure
+    - Information about any accident or damage caused by a system failure
     - What features are being tested - is there a similarity between competitors 
